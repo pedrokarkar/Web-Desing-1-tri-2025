@@ -1,0 +1,15 @@
+
+html{
+    background-color: black;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 80vh;
+    background-color: black;
+}
+.navbar-brand{
+    width: 30px;
+}
