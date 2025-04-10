@@ -1,0 +1,12 @@
+.fade-out {
+    opacity: 1;
+    transition: opacity 0.5s ease-out;
+  }
+  
+  .fade-out.fade {
+    opacity: 0;
+  }
+
+  .trocar-modo{
+    background: none;
+  }
